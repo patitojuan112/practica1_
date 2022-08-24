@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 main{
-  
-/*Sección de variables*/
+  /*Sección de variables*/
   
   
   
